@@ -3,7 +3,7 @@
 **Atharva Rajadhyaksha - 101041016**
 
 ## Contents
-- `BinaryCalculatorWebapp/` — Maven Spring Boot Binary Calculator app (Add, OR, AND, Multiply) with Dockerfile and unit tests
+- `BinaryCalculatorWebapp/` - Maven Spring Boot Binary Calculator app (Add, OR, AND, Multiply) with Dockerfile and unit tests
 - `BinaryCalculatorWebapp/k8s/` - Custom Kubernetes YAML files for deploying the Binary Calculator (Design task)
 - `MySQL/` - Deployment and service YAML files for MySQL
 
